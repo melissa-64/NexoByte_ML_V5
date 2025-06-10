@@ -35,6 +35,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nexobyte.cc/product/ghost/"
+        },
+        {
+            "id": "Solara Internal",
+            "name": "Solara Internal",
+            "categoryId": "gtaV",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Stand.Launchpad.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
