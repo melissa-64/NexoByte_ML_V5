@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nexobyte.cc/product/zenith/"
+        },
+        {
+            "id": "Zenith External",
+            "name": "Zenith External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/zenith_external.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nexobyte.cc/product/zenith-external"
         }
     ]
 }
