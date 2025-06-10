@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nexobyte.cc/product/zenith-external"
+        },
+        {
+            "id": "Ghost External",
+            "name": "Ghost External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Ghost.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nexobyte.cc/product/ghost/"
         }
     ]
 }
