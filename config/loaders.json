@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Shadow External",
+            "name": "Shadow External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/shadow_external.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
