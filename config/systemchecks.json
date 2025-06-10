@@ -4,14 +4,14 @@
             "key": "VirtualizationEnabled",
             "expectedValue": false,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
             "key": "SecureBootDisabled",
             "expectedValue": false,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
@@ -36,7 +36,7 @@
             "key": "Windows11_24H2",
             "expectedValue": false,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
