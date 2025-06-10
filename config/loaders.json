@@ -44,6 +44,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "HWID Spoofer",
+            "name": "HWID Spoofer",
+            "categoryId": "spoofers",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Spoofer.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nexobyte.cc/product/spoofer/"
         }
     ]
 }
