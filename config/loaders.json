@@ -53,15 +53,6 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://nexobyte.cc/product/spoofer/"
-        },
-        {
-            "id": "Force Save",
-            "name": "Force Save",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Force_save.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": "https://nexobyte.cc"
         }
     ]
 }
