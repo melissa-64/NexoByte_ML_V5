@@ -8,6 +8,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Zenith Internal",
+            "name": "Zenith Internal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/zenith_internal.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://nexobyte.cc/product/zenith/"
         }
     ]
 }
