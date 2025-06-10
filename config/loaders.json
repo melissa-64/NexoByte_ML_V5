@@ -62,6 +62,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Force Save (~Camo Editor~)",
+            "name": "Force Save (~Camo Editor~)",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Force_save.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
