@@ -16,7 +16,7 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": false
         },
@@ -47,7 +47,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": false
         }
