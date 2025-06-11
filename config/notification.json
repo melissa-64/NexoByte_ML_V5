@@ -15,6 +15,22 @@
                     "url": "https://nexobyte.net"
                 }
             }
+        },
+        {
+            "id": "notif2",
+            "type": "discount",
+            "title": "Discount Code",
+            "message": "Code ~10%-OFF",
+            "startDate": "2025-06-11T04:34:24Z",
+            "endDate": "2025-06-18T04:34:24Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Website",
+                    "url": "https://nexobyte.cc"
+                }
+            }
         }
     ]
 }
