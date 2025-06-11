@@ -62,6 +62,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Pulse External",
+            "name": "Pulse External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Pulse_External.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Pulse_External.gif",
+            "productUrl": "https://nexobyte.cc/product/pulse/"
         }
     ]
 }
