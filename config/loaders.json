@@ -80,6 +80,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/ProX_External.gif",
             "productUrl": "https://nexobyte.cc/product/ProX/"
+        },
+        {
+            "id": "Solaris Internal",
+            "name": "Solaris Internal",
+            "categoryId": "gtaV",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/GtaV_Story_Mode_Cheat.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Solaris_Internal.gif",
+            "productUrl": "https://nexobyte.cc/product/solaris"
         }
     ]
 }
