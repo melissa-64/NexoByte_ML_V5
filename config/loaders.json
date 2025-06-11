@@ -71,6 +71,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Pulse_External.gif",
             "productUrl": "https://nexobyte.cc/product/pulse/"
+        },
+        {
+            "id": "ProX External",
+            "name": "ProX External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Q.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/ProX_External.gif",
+            "productUrl": "https://nexobyte.cc/product/ProX/"
         }
     ]
 }
