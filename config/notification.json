@@ -1,3 +1,20 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "Welcome Message",
+            "message": "Thanks For Using Our Multi Loader, To Show Our Appreciation Heres A 10% Discount Code For Our Website",
+            "startDate": "2025-06-11T01:35:23Z",
+            "endDate": "2025-06-18T01:35:23Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "Click To Go To Website",
+                    "url": "https://nexobyte.net"
+                }
+            }
+        }
+    ]
 }
