@@ -89,15 +89,6 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Solaris_Internal.gif",
             "productUrl": "https://nexobyte.cc/product/solaris"
-        },
-        {
-            "id": "GTA5",
-            "name": "ggnigga",
-            "categoryId": "gtaV",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/GtaV_Story_Mode_Cheat.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Solaris_Internal.gif",
-            "productUrl": ""
         }
     ]
 }
