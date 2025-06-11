@@ -2,14 +2,14 @@
     "checks": [
         {
             "key": "VirtualizationEnabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://youtu.be/g-jSkpbgpLI"
         },
         {
             "key": "SecureBootDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://youtu.be/RSBbfLGRWN0"
@@ -22,19 +22,19 @@
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": true,
+            "expectedValue": false,
             "fixable": false,
             "enabled": true,
             "tutorialLink": "https://youtu.be/MqHCKfH5xB4"
