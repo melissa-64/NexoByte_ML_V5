@@ -37,15 +37,6 @@
             "productUrl": "https://cloud.anewvision.fr/1234501656935399434/Ghost_External.gif"
         },
         {
-            "id": "Solara Internal",
-            "name": "Solara Internal",
-            "categoryId": "gtaV",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Stand.Launchpad.exe",
-            "status": "online",
-            "imageUrl": "",
-            "productUrl": ""
-        },
-        {
             "id": "HWID Spoofer",
             "name": "HWID Spoofer",
             "categoryId": "spoofers",
