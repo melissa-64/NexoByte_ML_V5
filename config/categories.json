@@ -136,6 +136,33 @@
       "isDefault": true
     },
     {
+      "id": "gtaV",
+      "name": "GTA V",
+      "brandColors": {
+        "primary": "#46721e"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/image.png",
+      "isDefault": true
+    },
+    {
+      "id": "pubg",
+      "name": "PUBG",
+      "brandColors": {
+        "primary": "#ffffff"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pubg/image.png",
+      "isDefault": true
+    },
+    {
+      "id": "eft",
+      "name": "EFT",
+      "brandColors": {
+        "primary": "#dbd5bf"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/eft/image.png",
+      "isDefault": true
+    },
+    {
       "id": "bf",
       "name": "Battlefield",
       "brandColors": {
@@ -196,6 +223,15 @@
         "primary": "#808080"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/others_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "spoofers",
+      "name": "SPOOFER",
+      "brandColors": {
+        "primary": "#959595"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/spoofer-category.png",
       "isDefault": true
     }
   ]
