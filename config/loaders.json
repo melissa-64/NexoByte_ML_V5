@@ -98,6 +98,15 @@
             "status": "updating",
             "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/Solaris_Internal.gif",
             "productUrl": ""
+        },
+        {
+            "id": "gg",
+            "name": "gg",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/standard.gif",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
