@@ -4,7 +4,7 @@
             "key": "VirtualizationEnabled",
             "expectedValue": true,
             "fixable": false,
-            "enabled": false,
+            "enabled": true,
             "tutorialLink": ""
         },
         {
@@ -24,13 +24,13 @@
             "key": "MemoryIntegrityDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "Windows11_24H2",
