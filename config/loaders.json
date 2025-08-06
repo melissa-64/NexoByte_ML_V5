@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Force Save (~Camo Editor~)",
-            "name": "Force Save (~Camo Editor~)",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Force_save.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": ""
-        },
-        {
             "id": "Unlock All",
             "name": "Unlock All",
             "categoryId": "bo6",
