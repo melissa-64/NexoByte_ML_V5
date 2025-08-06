@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Shadow External",
-            "name": "Shadow External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/shadow_external.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://nexobyte.cc/product/shadow/"
-        },
-        {
             "id": "Zenith External",
             "name": "Zenith External",
             "categoryId": "bo6",
