@@ -4,90 +4,90 @@
             "id": "Shadow External",
             "name": "Shadow External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/shadow_external.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/shadow_external.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/shadow/"
         },
         {
             "id": "Zenith External",
             "name": "Zenith External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/zenith_external.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/zenith_external.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/zenith-external"
         },
         {
             "id": "Zenith Internal",
             "name": "Zenith Internal",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/t10_zlv2_BnjOpLqtTiZ0ZrJ.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/t10_zlv2_BnjOpLqtTiZ0ZrJ.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/zenith/"
         },
         {
             "id": "Ghost External",
             "name": "Ghost External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/ghost.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/ghost.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://cloud.anewvision.fr/1234501656935399434/Ghost_External.gif"
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "productUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Ghost_External.gif"
         },
         {
             "id": "HWID Spoofer",
             "name": "HWID Spoofer",
             "categoryId": "spoofers",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Spoofer.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Spoofer.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/spoofer/"
         },
         {
             "id": "Force Save (~Camo Editor~)",
             "name": "Force Save (~Camo Editor~)",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Force_save.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Force_save.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": ""
         },
         {
             "id": "Unlock All",
             "name": "Unlock All",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/unlock_all.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/unlock_all.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": ""
         },
         {
             "id": "Pulse External",
             "name": "Pulse External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Pulse_External.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Pulse_External.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/pulse/"
         },
         {
             "id": "ProX External",
             "name": "ProX External",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/Q.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Q.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/ProX/"
         },
         {
             "id": "Solaris Internal",
             "name": "Solaris Internal",
             "categoryId": "gtaV",
-            "downloadUrl": "https://cloud.anewvision.fr/1234501656935399434/GtaV_Story_Mode_Cheat.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/GtaV_Story_Mode_Cheat.exe",
             "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
+            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
             "productUrl": "https://nexobyte.cc/product/solaris"
         }
     ]
