@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "ProX External",
-            "name": "ProX External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Q.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://nexobyte.cc/product/ProX/"
-        },
-        {
             "id": "Solaris Internal",
             "name": "Solaris Internal",
             "categoryId": "gtaV",
