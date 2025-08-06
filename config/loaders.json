@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Ghost External",
-            "name": "Ghost External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/ghost.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Ghost_External.gif"
-        },
-        {
             "id": "HWID Spoofer",
             "name": "HWID Spoofer",
             "categoryId": "spoofers",
