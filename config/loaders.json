@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "HWID Spoofer",
-            "name": "HWID Spoofer",
-            "categoryId": "spoofers",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Spoofer.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://nexobyte.cc/product/spoofer/"
-        },
-        {
             "id": "Force Save (~Camo Editor~)",
             "name": "Force Save (~Camo Editor~)",
             "categoryId": "bo6",
