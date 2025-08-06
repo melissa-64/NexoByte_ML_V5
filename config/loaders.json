@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Unlock All",
-            "name": "Unlock All",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/unlock_all.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": ""
-        },
-        {
             "id": "Pulse External",
             "name": "Pulse External",
             "categoryId": "bo6",
