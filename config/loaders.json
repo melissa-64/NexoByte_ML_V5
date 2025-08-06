@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "cod-fecurity",
+            "name": "COD Fecurity External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://pub-33c64c7e45fd4b189dba0fa55d73d378.r2.dev/LAUNCHER.exe",
+            "status": "online",
+            "imageUrl": "https://pub-e72d5819a9614e9dbaad41f246e9caa0.r2.dev/BO6%20Fecurity%20Product%20Box.png",
+            "productUrl": "https://nexobyte.cc/product/fecurity-external"
+        }
+    ]
 }
