@@ -1,13 +1,3 @@
 {
-    "loaders": [
-        {
-            "id": "Solaris Internal",
-            "name": "Solaris Internal",
-            "categoryId": "gtaV",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/GtaV_Story_Mode_Cheat.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://nexobyte.cc/product/solaris"
-        }
-    ]
+    "loaders": []
 }
