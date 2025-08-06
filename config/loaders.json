@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "Pulse External",
-            "name": "Pulse External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/1234501656935399434/Pulse_External.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/1234501656935399434/SERVER-BANNER.gif",
-            "productUrl": "https://nexobyte.cc/product/pulse/"
-        },
-        {
             "id": "ProX External",
             "name": "ProX External",
             "categoryId": "bo6",
