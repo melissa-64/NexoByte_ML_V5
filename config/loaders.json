@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "bo6-zenith-internal",
-            "name": "BO6 Zenith Internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://pub-33c64c7e45fd4b189dba0fa55d73d378.r2.dev/BO6%20Zenith%20Internal.exe",
-            "status": "online",
-            "imageUrl": "https://pub-e72d5819a9614e9dbaad41f246e9caa0.r2.dev/Multi%20Product%20Box.png",
-            "productUrl": "https://nexobyte.cc/product/zenith-internal-bo6"
-        },
-        {
             "id": "bo6-ghost-external",
             "name": "BO6 Ghost External",
             "categoryId": "bo6",
