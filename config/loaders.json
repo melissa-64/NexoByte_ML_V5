@@ -101,7 +101,24 @@
             "version": "1.0",
             "systemRequirement": {
                 "enabled": true,
-                "requirements": []
+                "requirements": [
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    }
+                ]
             }
         }
     ]
