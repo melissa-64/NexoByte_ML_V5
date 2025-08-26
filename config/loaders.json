@@ -1,13 +1,3 @@
 {
-    "loaders": [
-        {
-            "id": "bo6-ghost-external",
-            "name": "BO6 Ghost External",
-            "categoryId": "bo6",
-            "downloadUrl": "https://pub-e72d5819a9614e9dbaad41f246e9caa0.r2.dev/Ghost.exe",
-            "status": "online",
-            "imageUrl": "https://pub-e72d5819a9614e9dbaad41f246e9caa0.r2.dev/Multi%20Product%20Box.png",
-            "productUrl": "https://nexobyte.cc/product/ghost-external"
-        }
-    ]
+    "loaders": []
 }
