@@ -175,6 +175,22 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "shadow",
+            "name": "BO6 Shadow Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://pub-c5e9a55ec42247268a0c1f29c0ec096c.r2.dev/Shadow%20External.exe",
+            "status": "online",
+            "imageUrl": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/BO6%20Zenith%20Internal%20Box.png",
+            "productUrl": "https://nexobyte.cc/product/shdaow-external",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
