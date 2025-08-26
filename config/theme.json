@@ -43,7 +43,8 @@
         },
         "settings": {
             "defaultListView": false,
-            "defaultLanguage": "en"
+            "defaultLanguage": "en",
+            "appTitle": "Loom Secure ML"
         },
         "fixed": {
             "titleBar": "#000000"
