@@ -44,7 +44,7 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "en",
-            "appTitle": "Loomsecure ML"
+            "appTitle": "Multiloader v1.0"
         },
         "fixed": {
             "titleBar": "#000000"
