@@ -113,6 +113,12 @@
                         "fixable": true
                     },
                     {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
                         "key": "Virtualization",
                         "expectedState": true,
                         "fixable": false,
