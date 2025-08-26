@@ -90,7 +90,7 @@
         },
         {
             "id": "hyperx",
-            "name": "COD HyperX Chair",
+            "name": "BO6 HypoerX Chair",
             "categoryId": "bo6",
             "downloadUrl": "https://pub-c5e9a55ec42247268a0c1f29c0ec096c.r2.dev/HyperX.exe",
             "status": "online",
@@ -98,7 +98,7 @@
             "productUrl": "https://nexobyte.cc/product/hyper",
             "instructions": "",
             "contentType": "web_downloadable",
-            "version": "1.0",
+            "version": "1.1",
             "systemRequirement": {
                 "enabled": true,
                 "requirements": [
