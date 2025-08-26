@@ -43,6 +43,22 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "mw3-zenith-chair",
+            "name": "MW3 Zenith Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://pub-c5e9a55ec42247268a0c1f29c0ec096c.r2.dev/MWIII%20Zenith.exe",
+            "status": "online",
+            "imageUrl": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/MW3%20Zenith%20Internal%20Box.png",
+            "productUrl": "https://nexobyte.cc/product/mw3-zenith-internal",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
