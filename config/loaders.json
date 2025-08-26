@@ -395,6 +395,22 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "mw3-hyperx",
+            "name": "MW3 HyperX Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://pub-c5e9a55ec42247268a0c1f29c0ec096c.r2.dev/HyperX.exe",
+            "status": "online",
+            "imageUrl": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/HyperX%20Internal.png",
+            "productUrl": "https://nexobyte.cc/product/hyper",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
