@@ -44,7 +44,7 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "en",
-            "appTitle": "Loom Secure ML"
+            "appTitle": "Loomsecure ML"
         },
         "fixed": {
             "titleBar": "#000000"
