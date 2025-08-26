@@ -103,6 +103,11 @@
                 "enabled": true,
                 "requirements": [
                     {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
                         "key": "HyperV",
                         "expectedState": false,
                         "fixable": true
