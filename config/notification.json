@@ -3,32 +3,20 @@
         {
             "id": "notif1",
             "type": "announcement",
-            "title": "Welcome Message",
-            "message": "Thanks For Using Our Multi Loader, To Show Our Appreciation Heres A 10% Discount Code For Our Website",
-            "startDate": "2025-06-11T01:35:23Z",
-            "endDate": "2025-06-18T01:35:23Z",
+            "title": "Multi Loader Announcement",
+            "message": "Thanks For Choosing Our Multiloader\u2764\ufe0f",
+            "startDate": "2025-08-26T23:11:54Z",
+            "endDate": "2025-09-09T23:11:54Z",
             "displayDuration": 5000,
-            "priority": "normal",
+            "priority": "high",
             "cta": {
                 "primary": {
-                    "text": "Click To Go To Website",
-                    "url": "https://nexobyte.net"
-                }
-            }
-        },
-        {
-            "id": "notif2",
-            "type": "discount",
-            "title": "Discount Code",
-            "message": "Code ~10%-OFF",
-            "startDate": "2025-06-11T04:34:24Z",
-            "endDate": "2025-06-18T04:34:24Z",
-            "displayDuration": 5000,
-            "priority": "normal",
-            "cta": {
-                "primary": {
-                    "text": "Website",
+                    "text": "Buy a Key",
                     "url": "https://nexobyte.cc"
+                },
+                "secondary": {
+                    "text": "Join Our Discord",
+                    "url": "https://discord.gg/Wkn9at3KMX"
                 }
             }
         }
