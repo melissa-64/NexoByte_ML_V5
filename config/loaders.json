@@ -18,6 +18,28 @@
                         "key": "DriverBlocklist",
                         "expectedState": false,
                         "fixable": true
+                    },
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
                     }
                 ]
             }
