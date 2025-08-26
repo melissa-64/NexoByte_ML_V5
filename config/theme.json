@@ -2,7 +2,7 @@
     "theme": {
         "core": {
             "primary": "#FFFFFF",
-            "secondary": "#007BFF",
+            "secondary": "#FFFFFF",
             "border": "#007BFF",
             "divider": "#007BFF",
             "scrollbar": "#FFFFFF"
