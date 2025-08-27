@@ -52,8 +52,7 @@
             "imageUrl": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/MW3%20Zenith%20Internal%20Box.png",
             "productUrl": "https://nexobyte.cc/product/mw3-zenith-internal",
             "instructions": "",
-            "contentType": "web_downloadable",
-            "version": "1.0",
+            "contentType": "executable",
             "systemRequirement": {
                 "enabled": true,
                 "requirements": [
