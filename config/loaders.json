@@ -396,8 +396,7 @@
             "imageUrl": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/HyperX%20Internal.png",
             "productUrl": "https://nexobyte.cc/product/hyper",
             "instructions": "",
-            "contentType": "web_downloadable",
-            "version": "1.0",
+            "contentType": "executable",
             "systemRequirement": {
                 "enabled": true,
                 "requirements": [
