@@ -20,7 +20,7 @@
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://pub-b4f84c26d0c64ae481795fa23a984a2a.r2.dev/LOGO%20NO%20BG.png",
-            "background-anim": "particles"
+            "background-anim": "snow"
         },
         "border": {
             "radius": {
