@@ -11,7 +11,7 @@
             "instructions": "",
             "contentType": "executable",
             "systemRequirement": {
-                "enabled": true,
+                "enabled": false,
                 "requirements": [
                     {
                         "key": "DriverBlocklist",
